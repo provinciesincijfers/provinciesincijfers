@@ -11,7 +11,7 @@ Geef de tool toegang tot je Github account. Dit lijkt NIET te werken in Internet
 
 Een bestaand project van Github toevoegen (bijvoorbeeld "gebiedsniveaus")  
 File > Clone repository  
-Zoek op provinciesincijfers + de naam die je wil  
+Ga naar het tabblad "URL" en vul iets in als `https://github.com/provinciesincijfers/kadaster-post-processing/`
 Kies een handige lokale map. Ik werk zelf met c:\github. Let even op: soms komt je data terecht in bv c:\github\project\project, terwijl je gewoon c:\github\project\ wou.
 
 Tips:

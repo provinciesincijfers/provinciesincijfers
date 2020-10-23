@@ -1,8 +1,15 @@
 # provinciesincijfers - Landingspagina voor D&amp;A op Github
 
-Scope van deze pagina:
-- verwijzing naar andere inhoud
-- hulp ivm werken met github zelf
+Github is een website om samen te werken rond technologie. 
+De manieren om samen te werken zijn:
+
+* Wijzigingen voorstellen aan bestaande documenten
+* Documenten aanmaken
+* [Issues aanmaken](https://guides.github.com/features/issues/) en die in projecten indelen.
+
+Voor algemene info over werken met Github, zie https://github.com/provinciesincijfers/provinciesincijfers/wiki
+
+Hieronder meer over hoe we Github gebruiken in de werking D&A.
 
 
 ## Inhoud provincies.incijfers.be op Github
@@ -38,7 +45,4 @@ Software (doorgaans scripts voor statistische verwerking) die we hier delen om v
 
 
 
-## Werken met Github
-
-Voor algemene info over werken met Github, zie https://github.com/provinciesincijfers/provinciesincijfers/wiki
 

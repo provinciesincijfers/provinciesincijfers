@@ -9,6 +9,8 @@ De manieren om samen te werken zijn:
 
 Voor algemene info over werken met Github, zie https://github.com/provinciesincijfers/provinciesincijfers/wiki
 
+Heb je vragen over provincies.incijfers.be, spring dan binnen op de chat: https://gitter.im/provinciesincijfers/community
+
 Hieronder meer over hoe we Github gebruiken in de werking D&A.
 
 
